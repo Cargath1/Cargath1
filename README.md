@@ -1,1 +1,1 @@
-Hi there!, I'm Cargath1. I know literally 1 programming language and everything I make is sloppy, but why shouldn't I post it online?
+Hi there!, I'm Cargath1. I'm an amateur programmer who likes to share some code on github. Please don't expect anything coherent from this account.
